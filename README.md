@@ -22,3 +22,19 @@ git clone https://github.com/amit-077/Instagram_Clone.git
 cd Instagram_Clone
 ```
 
+## Set up Backend
+```
+cd backend
+npm install
+nodemon ./app.js
+```
+
+## Set up Frontend
+```
+cd frontend
+npm install
+npm start
+```
+
+### Open your web browser and go to http://localhost:3000 to access the MERN project.
+
